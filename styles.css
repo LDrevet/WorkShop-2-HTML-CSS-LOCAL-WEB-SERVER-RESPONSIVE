@@ -1,0 +1,74 @@
+
+
+
+.menu {
+  overflow: hidden;
+  background-color: #ffffff;    
+}
+
+.cmenu {
+    float: left;
+  width: 30%;
+  height: 10%;
+  background-color: #ffffff; 
+}
+.footer {
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.page {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.container {
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.column {
+  float: left;
+  width: 30%;
+  margin: 30px 1.15%;
+  height: 300px;
+  background-color: #777879;   
+}
+
+
+.content {              
+  width: 100%;
+  height: 30%;
+  padding: 20px;
+  background-color: #d6cfc1;
+  margin:0 auto
+}
+
+.article-image {
+  float: right;
+  width: 250px;
+  height: 250px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 20px;
+}
+
+.image {
+  float: left;
+  width: 120px;
+  height: 120px;
+  border-radius: 40px;
+  margin: 25px;
+}
+
+.username {
+  margin-top: 30px;
+}
+
+.comment {
+  margin: 10px;
+  overflow: hidden;  
+}

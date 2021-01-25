@@ -1,0 +1,63 @@
+
+.menu {
+    overflow: hidden;
+    background-color: #ffffff;    /* Medium blue */
+  }
+
+  .page {
+    width: 1000px;
+    margin: 0 auto;
+  }
+
+.container {
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+
+.content {              
+    width: 370px;
+    height: 30%;
+    padding: 10px;
+    background-color: #d6cfc1;
+  }
+
+
+  .footer {
+    overflow: hidden;
+    background-color: #ffffff;
+  }
+
+  .column {
+    float: left;
+    width: 370px;
+    height: 345px;
+    padding: 10px;
+    margin: 30px 1.15%;
+    background-color: #777879;   
+  }
+
+
+  .article-image {
+    float: right;
+    width: 250px;
+    height: 250px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+  }
+
+  .image {
+    float: left;
+    width: 150px;
+    height: 150px;
+    border-radius: 40px;
+    margin: 25px;
+  }
+
+  .comment {
+    margin: 10px;
+    overflow: hidden;  
+  }
+
+  .username {
+    margin-top: 30px;
+  }
